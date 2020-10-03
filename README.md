@@ -4,10 +4,11 @@
 
 ![In game screen](screen1.gif)
 
+[Play online version/Juega a la versión en linea](https://tic80.com/play?cart=1439)
+
 ## English
 
 A Sobokan clone make with [TIC-80](https://tic80.com). 
-
 
 In this game you must move the balls to the holes to go to the next level.
 
@@ -42,3 +43,4 @@ En este juego debes de mover las bolas hasta los agujeros para pasar al siguient
 * A Kyle Smith "Frantisek" por las funciones que permiten usar caracteres UTF-8 en TIC-80: https://tic80.com/play?cart=468 .
 
 Bajo licencia GNU/GPL3 o más reciente, menos las funciones de utf8 que están bajo licencia BSD
+
