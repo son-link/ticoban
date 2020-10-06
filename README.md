@@ -6,6 +6,8 @@
 
 [Play online version/Juega a la versión en linea](https://tic80.com/play?cart=1439)
 
+Also available in/También disponible en [Itch.io](https://son-link.itch.io/ticoban)
+
 ## English
 
 A Sobokan clone make with [TIC-80](https://tic80.com). 
